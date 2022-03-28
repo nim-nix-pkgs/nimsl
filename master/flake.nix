@@ -11,6 +11,7 @@
   inputs.src-nimsl-master.ref   = "refs/heads/master";
   inputs.src-nimsl-master.owner = "yglukhov";
   inputs.src-nimsl-master.repo  = "nimsl";
+  inputs.src-nimsl-master.dir   = "";
   inputs.src-nimsl-master.type  = "github";
   
   inputs."variant".owner = "nim-nix-pkgs";

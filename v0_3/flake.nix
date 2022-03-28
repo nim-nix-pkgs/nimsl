@@ -11,6 +11,7 @@
   inputs.src-nimsl-v0_3.ref   = "refs/tags/v0.3";
   inputs.src-nimsl-v0_3.owner = "yglukhov";
   inputs.src-nimsl-v0_3.repo  = "nimsl";
+  inputs.src-nimsl-v0_3.dir   = "";
   inputs.src-nimsl-v0_3.type  = "github";
   
   inputs."variant".owner = "nim-nix-pkgs";
